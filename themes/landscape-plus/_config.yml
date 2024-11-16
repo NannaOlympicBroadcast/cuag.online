@@ -1,0 +1,44 @@
+# Header
+menu:
+  主页: /
+  解决方案: /products
+  定价: /price
+  文档: /docs
+  娱乐: /entertainment
+
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: false
+mathjax: false
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+- links
+
+# Links
+links:
+  腾讯云: http://cloud.tencent.com
+  我的抖音空间: https://v.douyin.com/Ceit9BRt/ 
+  爱校对: http://ijiaodui.com
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
+twitter:
+google_plus:
+fb_admins: 
+fb_app_id:
+
+# Duoshuo
+duoshuo_shortname: reqianduan
+
+# Baidu share
+baidushare: true
