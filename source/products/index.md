@@ -19,4 +19,4 @@ kafka://kafka.douyin.cuag.online:9092
 # 知识管理平台（协议Neo4j）
 （南大校园网内登陆）
 
-https://neo4j.cuag.online:7474/browser/
+http://neo4j.cuag.online:7474/browser/
