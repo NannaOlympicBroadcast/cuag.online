@@ -20,3 +20,8 @@ kafka://kafka.douyin.cuag.online:9092
 （南大校园网内登陆）
 
 http://neo4j.cuag.online:7474/browser/
+
+# 智能体集群服务
+（南大校园网登录）
+
+http://douyin.cuag.online
