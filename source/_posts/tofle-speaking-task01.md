@@ -35,4 +35,30 @@ Some people believe that businesses should be required to spend a certain amount
 - gain valuable life experiences and develop essential soft skills
 - enables graduates to gain practical work experience and establish themselves in their chosen field more quickly
 
-# 
+# 是否让员工做工作以外的事情（社交、散步通气）
+
+- take some air in between the work tasks
+- in turn help them solve their problems
+
+# 人们是否应该只玩自己擅长的爱好
+Do you agree or disagree with the following statement? People should only engage in activities or hobbies at which they are good or talented.
+
+- Exploration and learning new things can be enriching experiences, even if someone is not initially skilled
+- derive joy and satisfaction from the process of improvement and growth in areas where they may not be naturally talented
+- foster a mindset of continuous learning and development
+
+# 老医生好还是年轻医生好
+（老医生好）
+- professional diagnosis and suggestions
+- give prescriptions to patients
+
+# 孩子是否应该从小听新闻
+- let children expose to some terrible facts
+- contact the news without objectivity
+- wrongly pick up the bad behaviors, which will not only be harmful to themselves but also hurt others
+
+# 孩子是否应该在远方的亲戚朋友那里住
+- learn to adapt spontaneously or be disciplined by someone who would not spoil them
+- develop a desire to help others
+- lead a healthier relationship between children and parents
+
