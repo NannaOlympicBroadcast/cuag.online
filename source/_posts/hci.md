@@ -25,7 +25,7 @@ tags:
 - DECIDE：Determine（研究问题）、Explore（具体问题）、Choose（评估方案）、Identify（实际问题）、Deal（道德伦理问题）、Evaluate（收集到的数据）
 - ID（Fitts定律）：IndexofDifficulty困难指数
 3. 很好用：可用性原则
-- 易记性  
+- 易记性   
 - 易学性
 - 效用性（横向）
 - 高效率（纵向）
