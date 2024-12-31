@@ -2,6 +2,9 @@
 title: 托福口语task1高分表达整理
 date: 2024-12-07 15:51:01
 tags:
+  - 托福
+  - 申请留学
+  - 英语学习
 ---
 # 书读百遍还是读万卷书
 Some people like to read certain books more than once. Others prefer to always read something they have never read before. Which do you usually prefer? Explain why, using details and examples.
