@@ -1,0 +1,34 @@
+---
+title: 人机交互期末背诵手册
+date: 2024-12-31 15:12:30
+tags:
+  - 人机交互
+  - 期末考试
+---
+1. 最重要：十条启发规则
+- 用户能够得知系统的状态：docker ps
+- 用户能够对系统有自主权：CPP面相对象与面相底层硬件兼备
+- 一致性和标准化：json格式、AmazonS3标准对象储存的域名
+- 能够与现实世界吻合：Docker对于容器、镜像命名与其本义的联系、好处
+- 能够避免错误：Docker prune的时候提示是否完全清除
+- 依赖识别而非记忆：IDE代码补全、有限项下拉选项框的作用、城市地址的选择
+- 美观而足够小：微信相对于QQ界面的一大优势
+- 能够帮助用户迅速发现、诊断并修复错误：网络连接错误提醒用户检查代理服务器设置
+- 使用灵活性和高效性：老人小孩
+- 帮助手册：略
+2. 很细节：中英互译
+- 人机交互（**HCI**）：Human Computer Interac**tion**
+- 用户（活动）为中心的设计：UCD：User Centered Design->ACD：Activity Centered Designed（为什么？）
+- 普适计算：Pervasive Compute
+- 用户图形界面（**GUI**）：Graphical User Interface
+- GMOS：Goal、Operation、Method、Selection（击键模型）
+- DECIDE：Determine（研究问题）、Explore（具体问题）、Choose（评估方案）、Identify（实际问题）、Deal（道德伦理问题）、Evaluate（收集到的数据）
+- ID（Fitts定律）：IndexofDifficulty困难指数
+3. 很好用：可用性原则
+- 易记性  
+- 易学性
+- 效用性（横向）
+- 高效率（纵向）
+- 安全性
+- 用户体验目标
+- 超越「可用性」（电子商城）
