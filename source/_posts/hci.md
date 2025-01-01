@@ -22,7 +22,7 @@ tags:
 - 普适计算：Pervasive Compute
 - 用户图形界面（**GUI**）：Graphical User Interface
 - GMOS：Goal、Operation、Method、Selection（击键模型）
-- DECIDE：Determine（研究问题）、Explore（具体问题）、Choose（评估方案）、Identify（实际问题）、Deal（道德伦理问题）、Evaluate（收集到的数据）
+- DECIDE：Determine（研究问题）、Explore（具体问题）、Choose（评估方案）、Identify（实际问题）、Determine（道德伦理问题）、Evaluate（收集到的数据）
 - ID（Fitts定律）：IndexofDifficulty困难指数
 - WIMP：Window、Icon、Menu、Pointer
 - 启发式评估：heuristic evaluation
@@ -70,7 +70,7 @@ tags:
 - 转移（让用户干擅长的事情）：移动和桌面平台
 11. 很沉重：人机交互的历史
 - 批处理阶段：单用户、单任务、使用机器语言编程
-- 联机终端时代：可修改性差，易出错
+- 联机终端时代：一维界面，可修改性差，易出错
 - 图形用户界面：直接操纵，信息过载、操作复杂
 - 1963：第一个交互绘图系统
 - 1964：鼠标问世
