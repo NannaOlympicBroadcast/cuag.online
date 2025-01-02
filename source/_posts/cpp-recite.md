@@ -7,6 +7,7 @@ tags:
 ---
 1. 符号优先级（**左**结合）
 - 1元
+- 指针、访问
 - 乘除模
 - 加减
 - 移动运算符
@@ -50,7 +51,6 @@ def alignment(struct, default, cpu_digits):
     # 计算结构体的总大小，考虑最终对齐
     if offset % align != 0:
         offset += align - (offset % align)
-
     return offset  
 ```
 4. 函数返回值
