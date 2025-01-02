@@ -65,7 +65,7 @@ def alignment(struct, default, cpu_digits):
 - new delete：如果在new使用[]，则在delete也要使用[]
 - unique_ptr（不能转染所有权，只能用std::move来移动）：生命周期调用析构函数
 - shared_ptr（能够转让所有权）：最后一个持有对象的shared_ptr被销毁或者被赋值为另外一个指针的时候对象会销毁(.get()读取原来的指针，使用use_count()来查看当前对象的引用计数)
-- weak_ptr（没有计数器，是「丐版」shared_ptr）：只能通过weak_ptr或者shared_ptr进行构造，通过.lock().get()来访问（lock返回一个shared_ptr对象）
+- weak_ptr（没有计数器，是「丐版」shared_ptr）：只能通过weak_ptr或者shared_ptr进行构造，通过.lock().get()来访问（lock返回一个shared_ptr对象） 
 7. 函数一般的执行过程
 - 将参数或者参数地址压栈
 - 将返回地址压栈，保持调用者的现场（ebp、esp）
