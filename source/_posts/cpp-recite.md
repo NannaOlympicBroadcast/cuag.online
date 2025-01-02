@@ -113,4 +113,10 @@ def alignment(struct, default, cpu_digits):
 - 自增运算符后缀使用哑运算符，并且返回值
 - 赋值运算符要判断是否自我赋值
 - 一般格式 \<Return_Type\> operator \<OP\> \(\<FunctionFParams\>\){\<Expressions\>}
-- 
+- 括号重载运算符
+- 成员重载运算符（类包装器）
+17. Resource Acquisition Is Initialization（RAII）
+- 构造函数请求资源，建立所有类不变式，但是在无法完成的时候抛出异常
+- 析构函数释放资源但是绝不抛出异常
+- 自身拥有自动储存期或者临时生存期
+- 有与自动或者临时对象的生存期绑定的生存期
