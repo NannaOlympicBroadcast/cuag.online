@@ -65,3 +65,9 @@ Do you agree or disagree with the following statement? People should only engage
 - develop a desire to help others
 - lead a healthier relationship between children and parents
 
+# 是买用过的书还是买新书
+- not that crappy
+- highlight the important part
+- spend over 100 dollars on a single book
+- have its own distinct charm and personality
+- brings us the mysterious heritage from its former owner
